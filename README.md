@@ -27,7 +27,7 @@ Accurately predicting house prices is essential for stakeholders in the real est
 - Scikit-learn
 - Pandas
 - NumPy
-- Matplotlib / Seaborn (for optional EDA)
+- Matplotlib / Seaborn 
 - Jupyter Notebook
 
 ---
