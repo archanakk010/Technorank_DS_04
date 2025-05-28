@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction using Support Vector Regression (SVR)
+# 🏠 Predictive Modeling of House Prices using Machine Learning
 
 ##  Project Overview
 
