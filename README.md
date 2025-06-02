@@ -72,4 +72,4 @@ The SVR model exhibited strong performance with minimal overfitting and high acc
 
 This project successfully demonstrates how feature selection and hyperparameter tuning can enhance the performance of regression models. The SVR model achieved a high R² score on unseen test data, proving effective in capturing the underlying patterns of house price determinants. This approach can be extended to larger datasets or enhanced using ensemble models for production-grade systems.
 
-
+##  Video link
